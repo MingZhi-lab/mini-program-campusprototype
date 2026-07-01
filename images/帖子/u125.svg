@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="124px" height="73px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -26 -905 )">
-    <path d="M 26 905  L 150 905  L 150 978  L 26 978  L 26 905  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
-    <path d="M 31 910  L 145 910  L 145 973  L 31 973  L 31 910  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
-    <path d="M 95.95500000000001 926.9000000000001  C 92.88900000000001 926.9000000000001  90.48 924.4910000000001  90.48 921.4250000000001  C 90.48 918.359  92.88900000000001 915.95  95.95500000000001 915.95  C 99.02100000000002 915.95  101.43 918.359  101.43 921.4250000000001  C 101.43 924.4910000000001  99.02100000000002 926.9000000000001  95.95500000000001 926.9000000000001  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
-    <path d="M 33 971  L 33 938.55  L 60.5 923.8  L 99 950.1596774193548  L 121 932.65  L 143 950.1596774193548  L 143 971  L 33 971  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="127px" height="73px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -153 -905 )">
+    <path d="M 153 905  L 280 905  L 280 978  L 153 978  L 153 905  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
+    <path d="M 158 910  L 275 910  L 275 973  L 158 973  L 158 910  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
+    <path d="M 224.51500000000001 926.9000000000001  C 221.449 926.9000000000001  219.04000000000002 924.4910000000001  219.04000000000002 921.4250000000001  C 219.04000000000002 918.359  221.449 915.95  224.51500000000001 915.95  C 227.58100000000002 915.95  229.99 918.359  229.99 921.4250000000001  C 229.99 924.4910000000001  227.58100000000002 926.9000000000001  224.51500000000001 926.9000000000001  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
+    <path d="M 160 971  L 160 938.55  L 188.25 923.8  L 227.8 950.651968503937  L 250.4 932.65  L 273 950.651968503937  L 273 971  L 160 971  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" />
   </g>
 </svg>
